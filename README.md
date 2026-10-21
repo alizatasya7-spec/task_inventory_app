@@ -1,1 +1,0 @@
-# task_inventory_app
