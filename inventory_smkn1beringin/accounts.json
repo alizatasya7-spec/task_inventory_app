@@ -1,0 +1,20 @@
+[
+  {
+    "username": "user2",
+    "password": "131313",
+    "role": "User",
+    "approvalStatus": "Disetujui"
+  },
+  {
+    "username": "user3",
+    "password": "181818",
+    "role": "User",
+    "approvalStatus": "Disetujui"
+  },
+  {
+    "username": "aaindra",
+    "password": "040210",
+    "role": "User",
+    "approvalStatus": "Disetujui"
+  }
+]
